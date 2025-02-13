@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.jOAOu5pi.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"InterviewQuestions/index.md","filePath":"InterviewQuestions/index.md"}'),s={name:"InterviewQuestions/index.md"};function r(a,i,o,c,d,p){return n(),t("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};
